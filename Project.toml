@@ -1,0 +1,13 @@
+name = "MyDoc"
+uuid = "8b64c4d8-5266-4a73-aecf-b8927d020de5"
+authors = ["Sneha Pandey"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
